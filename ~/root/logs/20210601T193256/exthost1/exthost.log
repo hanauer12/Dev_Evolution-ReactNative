@@ -1,0 +1,35 @@
+[2021-06-01 19:32:58.801] [exthost] [info] extension host started
+[2021-06-01 19:32:59.022] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-06-01 19:32:59.022] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/vscode/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-06-01 19:32:59.037] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2021-06-01 19:32:59.038] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/vscode/resources/app/extensions/typescript-language-features/dist/extension
+[2021-06-01 19:32:59.068] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-06-01 19:32:59.068] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/vscode/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-06-01 19:32:59.076] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-06-01 19:32:59.076] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/vscode/resources/app/extensions/git/dist/main
+[2021-06-01 19:32:59.103] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-06-01 19:32:59.105] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/vscode/resources/app/extensions/npm/dist/npmMain
+[2021-06-01 19:32:59.559] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-06-01 19:32:59.559] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/vscode/resources/app/extensions/github/dist/extension.js
+[2021-06-01 19:32:59.633] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-06-01 19:32:59.633] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/vscode/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-06-01 19:32:59.833] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-06-01 19:32:59.833] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/vscode/resources/app/extensions/github-authentication/dist/extension.js
+[2021-06-01 19:32:59.863] [exthost] [info] eager extensions activated
+[2021-06-01 19:32:59.885] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-06-01 19:32:59.885] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/vscode/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-06-01 19:32:59.892] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-06-01 19:32:59.893] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/vscode/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-06-01 19:32:59.895] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-06-01 19:32:59.895] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/vscode/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-06-01 19:33:20.335] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2021-06-01 19:33:20.335] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/vscode/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-06-01 19:48:09.297] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2021-06-01 19:48:09.297] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/vscode/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-06-01 19:48:09.326] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2021-06-01 19:48:09.327] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/vscode/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-06-01 19:48:11.366] [exthost] [error] [vscode.json-language-features] provider FAILED
+[2021-06-01 19:48:11.366] [exthost] [error] Canceled: Canceled
+	at b.makeCancelError (/opt/vscode/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:64563)
+	at b.handleFailedRequest (/opt/vscode/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:64414)
+	at /opt/vscode/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:308615
